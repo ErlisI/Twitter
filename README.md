@@ -1,6 +1,4 @@
-# Project 3 - Twitter
-
-# Twitter
+# Twitter Clone
 
 This is a basic Twitter app to view, compose, favorite, and retweet tweets.
 
